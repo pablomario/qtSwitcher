@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background.jpg</file>
+        <file>dev.png</file>
+        <file>usr.png</file>
+        <file>btn_background.png</file>
+        <file>byte_switcher_logo.png</file>
+        <file>byte_switcher_icon.ico</file>
+        <file>background_top_right.png</file>
+    </qresource>
+</RCC>
